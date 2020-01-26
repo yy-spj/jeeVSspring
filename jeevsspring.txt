@@ -1,0 +1,58 @@
+
+////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////
+Is JEE relevant 
+/////////////////////////////
+
+Tomcat is a partial JEE implementation
+The missing piece cab be added with Spring 
+Redhat JBOSS and IBM webshere both have free JEE offerings 
+
+What is JEE //// HOW IS IT DIFFERENT FROM SPRING 
+
+Offers Restful webservices Using JAX-RS
+
+
+BackEnd Developer 
+Data Management //database and cache  
+a. database
+How data is stored // ensure every user has access
+
+
+work with caching Schemes and scripting 
+website architechture 
+Servers
+Services REST and SOAP 
+
+essential requireemnt is to have knowledege of one backend language 
+
+
+BD bridges the communication gap between database and front end 
+
+nessasity 
+In depth knowledge of one backend language and framework 
+
+capability to scaling the application 
+knowledege of accesibilty and security complaince
+GIT
+Expertise in opted langauge  for use it is JVM langages
+
+
+1. little htmt js css 
+2. making scalable apps 
+3. ensure high availability of database 
+
+
+How does complete java stack looks like 
+what are the tools that are missing 
+
+traffic/load/scalability 
+
+ For server management you can choose any one of these and acquire an expertise on it: Docker, Kubernetes, Nginx, Node.js, New Relic etc.
+
+Follow archs
+
+
+
+
+
